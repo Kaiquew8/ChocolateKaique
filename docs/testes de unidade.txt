@@ -1,0 +1,14 @@
+TESTE DE UNIDADE
+
+Criar scripts que testem metodos e funcoes
+"Codigo que testa codigo"
+
+Muitas pessoas sabem apenas fazer testes individuais
+
+Existe uma forma melhor de executar multiplos testes variando seus valores
+Eh chamado de DDT - Data Driven Testing = Test Direcionado por Dados
+
+Normalmente, os testes de unidade sao criados apos a programacao.
+
+Existe uma forma de organizacao do trabalho que inverte isso.
+Primeiro se completam os testes e depois programacao
