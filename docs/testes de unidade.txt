@@ -13,5 +13,4 @@ Normalmente, os testes de unidade sao criados apos a programacao.
 Existe uma forma de organizacao do trabalho que inverte isso.
 Primeiro se completam os testes e depois programacao
 
-git config --global user.email "kaiquew8@gmail.com"
-testes
+git config --global user.email "kaiquew8@gmail.com" (software)
